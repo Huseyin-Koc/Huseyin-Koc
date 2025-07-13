@@ -47,7 +47,5 @@ English: Dinleme B1, Konuşma Üretimi B1, Okuma B2, Yazma B1
 📫 İletişim
 
 📧 kochuseyin@hotmail.fr
-
 📱 +90 541 570 0509
-
-🔗 github.com/Huseyin-Koc
+🌐 https://huseyinkoc.vercel.app/
