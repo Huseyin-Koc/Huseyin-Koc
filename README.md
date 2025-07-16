@@ -1,9 +1,5 @@
 # 👋 Merhaba! Ben Hüseyin Koç
 
-<p align="center">
-  <a href="https://github.com/Huseyin-Koc"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Koc&show_icons=true&theme=radical" alt="Hüseyin Koç’s GitHub stats" /></a>
-</p> 
-
 ## 📖 Hakkımda
 Ben Hüseyin Koç, Ege Üniversitesi Bilgisayar Mühendisliği bölümünden mezun bir yazılım geliştiricisiyim. Kendimi sürekli geliştirmeye önem veriyor, güncel teknolojileri yakından takip ederek bilgi birikimimi derinleştirmeyi amaçlıyorum. Hedefim; yazılım geliştirme alanında uzmanlaşarak, çözüm odaklı ve sürdürülebilir projeler üretmek ve bu doğrultuda teknoloji sektörüne değer katmaktır. 
 
